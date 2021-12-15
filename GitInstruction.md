@@ -17,6 +17,7 @@ _(также используется определение «система к
 * Скачать с официального сайта git: https://git-scm.com/downloads
 * Рекомендациями по установке git: https://git-scm.com/book/ru/v2/Введение-Установка-Git
 * VSCode: https://code.visualstudio.com/download
+* 1111
 
 ## Работа с VSCode:
 
